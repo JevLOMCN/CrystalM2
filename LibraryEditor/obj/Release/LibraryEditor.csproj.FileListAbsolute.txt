@@ -1,0 +1,9 @@
+S:\Release\LibraryEditor\LibraryEditor.exe.config
+S:\Release\LibraryEditor\LibraryEditor.exe
+S:\Release\LibraryEditor\LibraryEditor.pdb
+S:\Source\LibraryEditor\obj\Release\LibraryEditor.csprojResolveAssemblyReference.cache
+S:\Source\LibraryEditor\obj\Release\LibraryEditor.LMain.resources
+S:\Source\LibraryEditor\obj\Release\LibraryEditor.Properties.Resources.resources
+S:\Source\LibraryEditor\obj\Release\LibraryEditor.csproj.GenerateResource.Cache
+S:\Source\LibraryEditor\obj\Release\LibraryEditor.exe
+S:\Source\LibraryEditor\obj\Release\LibraryEditor.pdb

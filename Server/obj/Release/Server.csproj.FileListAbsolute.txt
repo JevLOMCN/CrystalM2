@@ -1,0 +1,13 @@
+S:\Release\Server\Server.exe
+S:\Release\Server\Server.pdb
+S:\Source\Server\obj\Release\Server.AccountInfoForm.resources
+S:\Source\Server\obj\Release\Server.ConfigForm.resources
+S:\Source\Server\obj\Release\Server.ItemInfoForm.resources
+S:\Source\Server\obj\Release\Server.MapInfoForm.resources
+S:\Source\Server\obj\Release\Server.MonsterInfoForm.resources
+S:\Source\Server\obj\Release\Server.SMain.resources
+S:\Source\Server\obj\Release\Server.Properties.Resources.resources
+S:\Source\Server\obj\Release\Server.csproj.GenerateResource.Cache
+S:\Source\Server\obj\Release\Server.exe
+S:\Source\Server\obj\Release\Server.pdb
+S:\Source\Server\obj\Release\Server.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+S:\Release\AutoPatcher\AutoPatcher.exe.config
+S:\Release\AutoPatcher\AutoPatcher.exe
+S:\Release\AutoPatcher\AutoPatcher.pdb
+S:\Source\AutoPatcher\obj\Release\AutoPatcher.csprojResolveAssemblyReference.cache
+S:\Source\AutoPatcher\obj\Release\AutoPatcher.AMain.resources
+S:\Source\AutoPatcher\obj\Release\AutoPatcher.Properties.Resources.resources
+S:\Source\AutoPatcher\obj\Release\AutoPatcher.csproj.GenerateResource.Cache
+S:\Source\AutoPatcher\obj\Release\AutoPatcher.exe
+S:\Source\AutoPatcher\obj\Release\AutoPatcher.pdb

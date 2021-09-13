@@ -1,0 +1,33 @@
+c:\users\jamie\documents\visual studio 2012\Projects\Legend of Mir\Client\bin\Debug\Client.exe
+c:\users\jamie\documents\visual studio 2012\Projects\Legend of Mir\Client\bin\Debug\Client.pdb
+c:\users\jamie\documents\visual studio 2012\Projects\Legend of Mir\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\jamie\documents\visual studio 2012\Projects\Legend of Mir\Client\obj\Debug\Client.Properties.Resources.resources
+c:\users\jamie\documents\visual studio 2012\Projects\Legend of Mir\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\users\jamie\documents\visual studio 2012\Projects\Legend of Mir\Client\obj\Debug\Client.exe
+c:\users\jamie\documents\visual studio 2012\Projects\Legend of Mir\Client\obj\Debug\Client.pdb
+c:\users\jamie\documents\visual studio 2012\Projects\Legend of Mir\Client\obj\Debug\Client.CMain.resources
+C:\Users\Jamie\documents\visual studio 2012\Projects\Legend of Mir\Client\bin\Debug\Client.exe.config
+S:\Source\Legend of Mir\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+S:\Source\Legend of Mir\Client\obj\Debug\Client.CMain.resources
+S:\Source\Legend of Mir\Client\obj\Debug\Client.Properties.Resources.resources
+S:\Source\Legend of Mir\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+S:\Source\Legend of Mir\Client\obj\Debug\Client.exe
+S:\Source\Legend of Mir\Client\obj\Debug\Client.pdb
+S:\Debug\Client\Client.exe.config
+S:\Debug\Client\Client.exe
+S:\Debug\Client\Client.pdb
+S:\Source\Client\obj\Debug\Client.CMain.resources
+S:\Source\Client\obj\Debug\Client.Properties.Resources.resources
+S:\Source\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+S:\Source\Client\obj\Debug\Client.exe
+S:\Source\Client\obj\Debug\Client.pdb
+S:\Source\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Debug\Client\Client.exe.config
+C:\Users\Alex\Documents\Debug\Client\Client.exe
+C:\Users\Alex\Documents\Debug\Client\Client.pdb
+C:\Users\Alex\Documents\JamieOriginal\Source\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\JamieOriginal\Source\Client\obj\Debug\Client.CMain.resources
+C:\Users\Alex\Documents\JamieOriginal\Source\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Alex\Documents\JamieOriginal\Source\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\JamieOriginal\Source\Client\obj\Debug\Client.exe
+C:\Users\Alex\Documents\JamieOriginal\Source\Client\obj\Debug\Client.pdb
